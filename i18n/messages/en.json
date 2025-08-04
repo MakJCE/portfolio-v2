@@ -1,0 +1,50 @@
+{
+  "home": {
+    "header": {
+      "title": "JhonnyCE",
+      "navigation": {
+        "about": "About",
+        "projects": "Projects",
+        "experience": "Experience",
+        "education": "Education",
+        "skills": "Skills",
+        "contact": "Contact"
+      }
+    },
+    "langs": {
+      "en": "English",
+      "es": "Spanish"
+    },
+    "hero": {
+      "name": "Jhonny Camacho Encinas",
+      "title": "Full Stack Developer & UI/UX Enthusiast",
+      "description": "Passionate about creating beautiful, functional web experiences that make a difference. I love turning complex problems into simple, elegant solutions."
+    },
+    "projects": {
+      "title": "Featured Projects",
+      "subtitle": "A collection of projects that showcase my skills and passion for development"
+    },
+    "experience": {
+      "title": "Work Experience",
+      "subtitle": "My professional journey and key achievements"
+    },
+    "education": {
+      "title": "Education",
+      "subtitle": "My academic background and continuous learning journey"
+    },
+    "skills": {
+      "title": "Skills & Technologies",
+      "subtitle": "Technologies I work with and my proficiency levels"
+    },
+    "footer": {
+      "title": "Let's work together",
+      "subtitle": "Feel free to reach out for collaborations or just a friendly hello!"
+    }
+  },
+  "metadata": {
+    "root": {
+      "title": "Jhonny Camacho Encinas - Full Stack Developer",
+      "description": "Personal portfolios, Full Stack Developer and UI/UX Enthusiast"
+    }
+  }
+}

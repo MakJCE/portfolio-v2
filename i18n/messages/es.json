@@ -1,0 +1,50 @@
+{
+  "home": {
+    "header": {
+      "title": "JhonnyCE",
+      "navigation": {
+        "about": "Sobre Mi",
+        "projects": "Proyectos",
+        "experience": "Experiencia",
+        "education": "Educación",
+        "skills": "Habilidades",
+        "contact": "Contacto"
+      }
+    },
+    "langs": {
+      "en": "Inglés",
+      "es": "Español"
+    },
+    "hero": {
+      "name": "Jhonny Camacho Encinas",
+      "title": "Desarrollador Full Stack y Entusiasta de UI/UX",
+      "description": "Apasionado por crear experiencias web hermosas y funcionales que marquen la diferencia. Me encanta convertir problemas complejos en soluciones simples y elegantes."
+    },
+    "projects": {
+      "title": "Proyectos Destacados",
+      "subtitle": "Una colección de proyectos que muestran mis habilidades y pasión por el desarrollo"
+    },
+    "experience": {
+      "title": "Experiencia Laboral",
+      "subtitle": "Mi trayectoria profesional y logros clave"
+    },
+    "education": {
+      "title": "Educación",
+      "subtitle": "Mi formación académica y viaje de aprendizaje continuo"
+    },
+    "skills": {
+      "title": "Habilidades y Tecnologías",
+      "subtitle": "Tecnologías con las que trabajo y mis niveles de competencia"
+    },
+    "footer": {
+      "title": "Trabajemos juntos",
+      "subtitle": "¡No dudes en contactarme para colaboraciones o simplemente para saludar!"
+    }
+  },
+  "metadata": {
+    "root": {
+      "title": "Jhonny Camacho Encinas - Desarrollador Full Stack",
+      "description": "Portafolio personal de Jhonny Camacho Encinas, Desarrollador Full Stack y Entusiasta de UI/UX"
+    }
+  }
+}
