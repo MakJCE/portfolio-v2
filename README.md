@@ -108,9 +108,3 @@ The easiest way to deploy this Next.js app is to use the Vercel Platform from th
 Check out the Next.js deployment documentation for more details.
 
 ---
-
-## 📄 License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-*(You'll need to create a `LICENSE` file with the MIT License text if you choose to use it.)*
