@@ -30,7 +30,8 @@
     },
     "education": {
       "title": "Educación",
-      "subtitle": "Mi formación académica y viaje de aprendizaje continuo"
+      "subtitle": "Mi formación académica y viaje de aprendizaje continuo",
+      "viewCertificate": "Certificado"
     },
     "skills": {
       "title": "Habilidades y Tecnologías",
@@ -43,7 +44,7 @@
   },
   "metadata": {
     "root": {
-      "title": "Jhonny Camacho Encinas - Desarrollador Full Stack",
+      "title": "Jhonny Camacho Encinas - Partafolio Personal",
       "description": "Portafolio personal de Jhonny Camacho Encinas, Desarrollador Full Stack y Entusiasta de UI/UX"
     }
   }

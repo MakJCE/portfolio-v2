@@ -21,10 +21,9 @@ export const projects = [
         image: "/placeholder.svg?height=300&width=400",
         tech: ["Next.js", "TypeScript", "Tailwind", "Vercel"],
         liveUrl: "",
-        githubUrl: "",
+        githubUrl: "https://github.com/MakJCE/portfolio-v2",
     },
 ]
-
 export const experiences = [
     {
         title: "Angular + ASP.NET Web Developer",
@@ -55,7 +54,6 @@ export const experiences = [
         description: "Captured and identified requirements from stakeholders, and designed and validated an Entity-Relationship Diagram (ERD) using Lucidchart. Developed routes and business logic for the API backend using Node.js with Express, and implemented UI views in React with Material UI."
     }
 ]
-
 export const education = [
     {
         degree: " Bachelor of Engineering in Computer Systems",
@@ -64,6 +62,7 @@ export const education = [
         location: "Cochabamba, BO",
         description:
             "Graduated Magna Cum Laude. Relevant coursework: Data Structures, Algorithms, Web Development, Database Systems.",
+        certificateUrl: "https://www.linkedin.com/in/jhonnycamachoencinas/detail/recent-activity/shares/",
     },
     {
         degree: "Full Stack Web Development Bootcamp",
@@ -72,9 +71,9 @@ export const education = [
         location: "Online",
         description:
             "Intensive 6-month program covering modern web development technologies including React, Node.js, and database management.",
+        certificateUrl: "https://www.linkedin.com/in/jhonnycamachoencinas/detail/recent-activity/shares/"
     },
 ]
-
 export const skills = [
     { name: "JavaScript / TypeScript", level: 95 },
     { name: "React / Next.js", level: 95 },

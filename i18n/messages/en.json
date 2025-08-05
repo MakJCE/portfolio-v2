@@ -30,7 +30,8 @@
     },
     "education": {
       "title": "Education",
-      "subtitle": "My academic background and continuous learning journey"
+      "subtitle": "My academic background and continuous learning journey",
+      "viewCertificate": "Certificate"
     },
     "skills": {
       "title": "Skills & Technologies",
@@ -43,7 +44,7 @@
   },
   "metadata": {
     "root": {
-      "title": "Jhonny Camacho Encinas - Full Stack Developer",
+      "title": "Jhonny Camacho Encinas - Personal Portfolio",
       "description": "Personal portfolios, Full Stack Developer and UI/UX Enthusiast"
     }
   }
