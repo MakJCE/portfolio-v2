@@ -2,7 +2,7 @@ export const projects = [
     {
         title: "Othello",
         description: "Also known as Reversi is a two-player strategy board game. This time, made as a player against a bot challenge.",
-        image: "/placeholder.svg?height=300&width=400",
+        image: "/projects/othello.jpg",
         tech: ["JavaScript", "HTML", "CSS"],
         liveUrl: "https://makjce.github.io/othello-web/index.html",
         githubUrl: "https://github.com/MakJCE/othello-web",
@@ -10,7 +10,7 @@ export const projects = [
     {
         title: "TuNubeYa",
         description: "My own startup project offers small businesses tools for creating and managing an online website store.",
-        image: "/placeholder.svg?height=300&width=400",
+        image: "/projects/tunubeya.jpeg",
         tech: ["Next.js", "TypeScript", "Tailwind", "Vercel", "Nest.js", "PostgreSQL"],
         liveUrl: "https://tunubeya.com",
         githubUrl: "",
@@ -18,7 +18,7 @@ export const projects = [
     {
         title: "Portfolio",
         description: "This website, where I demonstrate my skills, experience and dedication.",
-        image: "/placeholder.svg?height=300&width=400",
+        image: "/projects/portfolio.jpg",
         tech: ["Next.js", "TypeScript", "Tailwind", "Vercel"],
         liveUrl: "",
         githubUrl: "https://github.com/MakJCE/portfolio-v2",

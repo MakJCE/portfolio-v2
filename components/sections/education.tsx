@@ -37,7 +37,7 @@ export function Education() {
           {education.map((edu, index) => (
             <motion.div
               key={index}
-              className="relative pl-20 pb-12 last:pb-0"
+              className="relative pl-10 md:pl-20 pb-12 last:pb-0"
               initial={{ opacity: 0, x: -50 }}
               whileInView={{ opacity: 1, x: 0 }}
               viewport={{ once: true }}
@@ -53,9 +53,9 @@ export function Education() {
                       {edu.period}
                     </div>
                   </div>
-                  <div className="flex items-center text-blue-400 mb-2">
+                  <div className="flex flex-col md:flex-row items-start md:items-center text-blue-400 mb-2">
                     <span className="font-medium">{edu.institution}</span>
-                    <span className="mx-2">•</span>
+                    <span className="mx-2 hidden md:inline">•</span>
                     <div className="flex items-center">
                       <MapPin className="mr-1 h-4 w-4" />
                       {edu.location}

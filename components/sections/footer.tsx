@@ -29,7 +29,7 @@ export function Footer() {
             })}
           </p>
           <div className="flex justify-center gap-4 mb-8">
-            <Link href={`mailto:${contact.email}`}>
+            <Link href={`mailto:${contact.email}`} target="_blank">
               <Button variant="outline" size="lg">
                 <Mail className="mr-2 h-5 w-5" />
                 {contact.email}
@@ -37,12 +37,12 @@ export function Footer() {
             </Link>
           </div>
           <div className="flex justify-center gap-6">
-            <Link href={contact.github}>
+            <Link href={contact.github} target="_blank">
               <Button variant="ghost" size="sm">
                 <Github className="h-5 w-5" />
               </Button>
             </Link>
-            <Link href={contact.linkedin}>
+            <Link href={contact.linkedin} target="_blank">
               <Button variant="ghost" size="sm">
                 <Linkedin className="h-5 w-5" />
               </Button>
