@@ -56,13 +56,13 @@ export const experiences = [
 ]
 export const education = [
     {
-        degree: " Bachelor of Engineering in Computer Systems",
+        degree: "Bachelor of Engineering in Computer Systems",
         institution: "Universidad Católica Boliviana San Pablo (UCB)",
         period: "2018 - 2022",
         location: "Cochabamba, BO",
         description:
             "Graduated Magna Cum Laude. Relevant coursework: Data Structures, Algorithms, Web Development, Database Systems.",
-        certificateUrl: "https://www.linkedin.com/in/jhonnycamachoencinas/detail/recent-activity/shares/",
+        certificateUrl: "",
     },
     {
         degree: "Full Stack Web Development Bootcamp",
@@ -71,7 +71,7 @@ export const education = [
         location: "Online",
         description:
             "Intensive 6-month program covering modern web development technologies including React, Node.js, and database management.",
-        certificateUrl: "https://www.linkedin.com/in/jhonnycamachoencinas/detail/recent-activity/shares/"
+        certificateUrl: "https://badgr.com/public/assertions/UwHfpWLiSXOXo6zYs1MyoQ"
     },
 ]
 export const skills = [

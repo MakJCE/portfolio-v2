@@ -7,6 +7,7 @@ import Image from 'next/image';
 import Link from 'next/link';
 import { Button } from '@/components/ui/button';
 import { contact } from '@/lib/mocked-data';
+import '../../styles/text-shine.css';
 
 export function Hero() {
   const t = useTranslations('home');
@@ -50,7 +51,7 @@ export function Hero() {
         </motion.h1>
 
         <motion.p
-          className="text-xl md:text-2xl text-muted-foreground mb-8 leading-relaxed italic"
+          className="text-shine text-xl md:text-2xl text-muted-foreground mb-8 leading-relaxed italic"
           initial={{ opacity: 0, y: 50 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ delay: 0.6, duration: 0.6 }}

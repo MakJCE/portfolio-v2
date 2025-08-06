@@ -7,6 +7,7 @@ import { useTheme } from 'next-themes';
 import { Button } from '@/components/ui/button';
 import { useTranslations } from 'next-intl';
 import LanguageSelector from './lang-selector';
+import '../styles/logo-effect.css';
 
 export function Header() {
   const t = useTranslations('home.header');
@@ -38,7 +39,7 @@ export function Header() {
       <div className="max-w-7xl mx-auto px-4 py-4">
         <div className="flex items-center justify-between">
           <motion.div
-            className="text-xl font-bold bg-linear-to-r from-purple-400 to-blue-400 bg-clip-text text-transparent"
+            className="logo-effect text-xl font-bold bg-linear-to-r from-purple-400 to-blue-400 bg-clip-text text-transparent"
             whileHover={{ scale: 1.05 }}
           >
             {t('title')}
